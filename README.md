@@ -1,10 +1,12 @@
-# Gemini [![Build Status](https://github.com/anishathalye/gemini/workflows/CI/badge.svg)](https://github.com/anishathalye/gemini/actions?query=workflow%3ACI)
+# Gemini-UW [![Build Status](https://github.com/KagurazakaHinagi/gemini-uw/workflows/CI/badge.svg)](https://github.com/KagurazakaHinagi/gemini-uw/actions?query=workflow%3ACI)
 
-Gemini is a modern LaTeX [beamerposter] theme.
+[Gemini](https://github.com/anishathalye/gemini) is a modern LaTeX [beamerposter] theme.
+
+This repository is an unofficial color theme modification for University of Washington Husky Brand.
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini.pdf">
-<img src="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini-small.png">
+<a href="https://raw.githubusercontent.com/KagurazakaHinagi/gemini-uw/master/assets/poster-gemini-uw.pdf">
+<img src="https://raw.githubusercontent.com/KagurazakaHinagi/gemini-uw/master/assets/poster-gemini-uw.png">
 </a>
 </p>
 
@@ -38,15 +40,25 @@ to add an institution logo to the poster.
 
 ## Themes
 
-Gemini currently includes three color themes:
+Original Gemini includes three color themes.
+And here's an extra theme contained in this repo that designed for UW:
 
-* `gemini` (default)
+* `gemini` (original)
 * `mit`
 * `labsix`
+* `uw` (default)
 
 The alternative themes are intended to be inspiration for you to make your own
 color theme. You're highly recommended to make your own color theme (it's
 really easy!) or use the default Gemini theme.
+
+### Gemini theme
+
+<p align="center">
+<a href="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini.pdf">
+<img src="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini-small.png">
+</a>
+</p>
 
 ### MIT theme
 
